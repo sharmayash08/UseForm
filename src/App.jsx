@@ -1,5 +1,6 @@
 import './App.css'
 import FirstSection from './components/FirstSection'
+import FourthSection from './components/FouthSection'
 import HeroSection from './components/HeroSection'
 import Navbar from './components/Navbar'
 import SecondSection from './components/SecondSection'
@@ -14,6 +15,7 @@ function App() {
       <FirstSection />
       <SecondSection />
       <ThirdSection />
+      <FourthSection />
     </div>
   )
 }
